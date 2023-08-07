@@ -2,11 +2,14 @@ import React from 'react';
 // Layout
 import MainLayout from '../layouts/MainLayout';
 import HomeHero from '@/sections/HomeHero';
+import Skills from '@/sections/Skills';
+import Projects from '@/sections/Projects';
+import Contact from '@/sections/Contact';
 
 export default function Home() {
   const meta = (
     <>
-      <title>First React App</title>
+      <title>My Portfolio</title>
     </>
   );
 
@@ -14,6 +17,9 @@ export default function Home() {
     <MainLayout meta={meta}>
 
       <HomeHero/>
+      <Skills/>
+      <Projects/>
+      <Contact/>
     
     </MainLayout>
   );

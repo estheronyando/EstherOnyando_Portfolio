@@ -16,7 +16,7 @@ export const SOCIAL_LINKS = [
   export const HERO_TITLES = ['Esther Nyang\'au Onyando', 'a Full-stack Developer', 'a Javascript Enthusiast'];
   
   export const aboutParagraph =
-    'Highly motivated and enthusiastic Full Stack Developer with experience in designing, developing and maintaining web applications using technologies such as JavaScript, React, Node.js, Java. ';
+    'Highly motivated and enthusiastic Full Stack Developer with experience in designing, developing and maintaining web applications and Microservices using technologies such as JavaScript, React, Node.js, Java-SpringBoot. ';
   
   export const contactEmail = 'esthermariachana@gmail.com';
   
