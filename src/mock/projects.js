@@ -97,7 +97,7 @@ export const PROJECTS = [
     ],
     description:
       'This app serves as a digital shopping destination for fashion enthusiasts, offering a wide array of trendy and stylish clothing options. Built with a user-friendly interface and powered by the latest technologies, the app provides a seamless and enjoyable shopping experience for customers. ',
-    repoLink: 'https://github.com/dhavalcode/ecommerce-java-project',
+    repoLink: 'https://github.com/estheronyando/ecommercefrontend.git',
     sourceLink: 'https://ecommercefrontend-eight.vercel.app/',
     category: [PROJECT_CATEGORY.FULL_STACK, PROJECT_CATEGORY.OPEN_SOURCE],
   },
