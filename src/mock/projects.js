@@ -60,7 +60,7 @@ export const PROJECTS = [
     description:
       'Jumia Clone is done with top-notch features for the entrepreneur startups like Jumia. It is build with React Js, Node Js.',
     repoLink: 'https://github.com/estheronyando/JumiaClone.git',
-    sourceLink: 'https://jumia-4taoegr26-estheronyando.vercel.app/',
+    sourceLink: 'https://jumia-eta.vercel.app/',
     category: [PROJECT_CATEGORY.FULL_STACK, PROJECT_CATEGORY.OPEN_SOURCE],
   },
   {
