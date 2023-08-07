@@ -50,7 +50,7 @@ export default function Contact() {
         </LoadAnimate>
         <div id="checkmyresume">
           <a
-            href="https://drive.google.com/file/d/1l6p8agY7N4hpIc8lbquAhLafFOtio2CK/view?usp=share_link"
+            href="https://docs.google.com/document/d/14IuSmTvlgtOib1PWtRXT16Qeia2lw_FU/edit?usp=drive_link&ouid=113394913825970581410&rtpof=true&sd=true"
             className="download-button bg-primary-700 text-white text-2xl font-bold py-2 px-4 rounded-lg"
           >
             Check My Resume
